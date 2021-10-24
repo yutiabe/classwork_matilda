@@ -1,2 +1,2 @@
 # classwork_matilda
-This is my personal project
+This is for m e to practice git
